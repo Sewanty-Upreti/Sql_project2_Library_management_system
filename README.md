@@ -15,9 +15,9 @@ The system models a real-world library with multiple branches, employees, books,
 
 The project is organized into separate files for clarity:
 
-- `create_tables.sql` → Database, tables, constraints, and column alterations
-- `insert_data.sql` → All INSERT statements for sample data
-- `tasks.sql` → Solutions to all 20 tasks (CRUD, CTAS, procedures, analysis)
+- `Library_management_system_project2.sql` → Database, tables, constraints, and column alterations
+- `insert_queries.sql` → All INSERT statements for sample data
+- `solving_tasks_library_sql_project_p2.sql` → Solutions to all 20 tasks (CRUD, CTAS, procedures, analysis)
 
 **Key Features**
 - **Relational Integrity**: Foreign keys ensure consistent data
