@@ -54,11 +54,10 @@ The project is organized into separate files for clarity:
 - MySQL client (Workbench or command line)
 
 ### Steps
-1. Run `create_tables.sql` → creates database and schema
-2. Run `insert_data.sql` → populates with realistic sample data
-3. Run `tasks.sql` → executes all 20 tasks and creates additional objects
+1. Run `Library_management_system_project2.sql` → creates database and schema
+2. Run `insert_queries.sql` → populates with realistic sample data
+3. Run `solving_tasks_library_sql_project_p2.sql` → executes all 20 tasks and creates additional objects
 
-> Note: Overdue calculations assume a 30-day return period and use `CURDATE()`.
 
 ## Tasks Solved
 
