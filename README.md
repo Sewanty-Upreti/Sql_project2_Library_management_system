@@ -25,9 +25,8 @@ The project is organized into separate files for clarity:
 - **Analysis & Reporting**: Revenue by category, overdue tracking, branch performance
 - **Advanced SQL**: Stored procedures for issuing/returning books, views, CTAS summaries
 
-## Database Schema (ER Diagram Example)
+## Database Schema (ER Diagram)
 
-![Library ER Diagram]
 <img width="837" height="803" alt="Screenshot 2026-01-06 at 6 10 27 pm" src="https://github.com/user-attachments/assets/2a7af654-0ada-419a-91bd-ec38ed56a0e6" />
 
 
